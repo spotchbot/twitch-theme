@@ -1,0 +1,35 @@
+:root {
+	--color-twitch-purple: rgb(28, 204, 91) !important;
+    --color-twitch-purple-7: rgb(0, 155, 58) !important;
+    --color-twitch-purple-8: rgb(4, 177, 68) !important;
+    --color-twitch-purple-9: rgb(28, 204, 91) !important;
+    --color-twitch-purple-10: rgb(52, 245, 91) !important;
+    --color-twitch-purple-11: rgb(91, 255, 132) !important;
+    --color-twitch-purple-12: rgb(179, 255, 209) !important;
+    --color-twitch-purple-13: rgb(224, 255, 237) !important;
+    --color-twitch-purple-14: rgb(235, 255, 247) !important;
+    --color-twitch-purple-15: rgb(245, 255, 255) !important;
+}
+
+.gDssrV, :root {
+	--color-accent: var(--color-twitch-purple-9) !important;
+}
+
+.eKTNXg, .dqyqSF {
+    --color-background-accent: var(--color-twitch-purple-9) !important;
+    --color-background-accent-alt: var(--color-twitch-purple-8) !important;
+    --color-background-accent-alt-2: var(--color-twitch-purple-7) !important;
+    --color-text-link: var(--color-twitch-purple-11) !important;
+    --color-text-link-hover: var(--color-twitch-purple-10) !important;
+    --color-text-link-active: var(--color-twitch-purple-11) !important;
+    --color-text-link-focus: var(--color-twitch-purple-10) !important;
+    --color-text-link-visited: var(--color-twitch-purple-11) !important;
+}
+
+.tw-root--theme-dark .navigation-link.active, .tw-root--theme-dark .navigation-link:hover {
+	color: var(--color-twitch-purple-11) !important;
+}
+
+.tw-root--theme-dark .navigation-link__active-indicator {
+	background-color: var(--color-twitch-purple-11) !important;
+}

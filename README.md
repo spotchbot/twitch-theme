@@ -7,3 +7,5 @@ Transform Twitch's appearance to match Spotify's vibrant color scheme with this 
 - Go to `chrome://extensions` in the address bar.
 - Enable Developer Mode.
 - Drag unzipped folder into window.
+## Screenshots
+![Screenshot](./screenshot.jpg)
